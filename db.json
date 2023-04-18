@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "John Doe"
+    },
+    {
+      "id": 1,
+      "name": "Jane Doe"
+    }
+  ],
+  "messages": [
+    {
+      "id": 0,
+      "message": "Hi John Doe!",
+      "user": "Jane Doe"
+    },
+    {
+      "id": 1,
+      "message": "Hey Jane Doe!",
+      "user": "John Doe"
+    }
+  ]
+}
